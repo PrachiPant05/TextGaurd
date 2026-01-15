@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+langchain_google_genai
+python-dotenv
+streamlit
+nltk
+language-tool-python
+transformers
+torch
+matplotlib
+tokenizers>=0.22.0,<=0.23.0
